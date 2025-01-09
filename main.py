@@ -5,3 +5,6 @@ def func_branch2():
 
 def func_branch10():
     print('branch2')
+
+def func_branch11():
+    print('branch11')
