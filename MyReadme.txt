@@ -8,3 +8,5 @@ https://github.com/settings/emails
  If you want command line Git operations 
  to use your private email you must set your email in Git.
  https://docs.github.com/articles/setting-your-email-in-git
+
+-----------------------------------------------------------
